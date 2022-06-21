@@ -2,7 +2,7 @@
 
 I am a System Analyst & Developer. My areas of interest include but are not limited to Web Security, OOP, Software Engineering, Databases.
 
-Most of my practical experience is around Java/Angular and backend development with Spring Boot. I also like exploring the world of JavaScript and new technologies.
+Most of my practical experience is around Java/Angular and backend development with Spring Boot / Wildfly. I also like exploring the world of JavaScript and new technologies.
 
 ### Languages and Tools
 

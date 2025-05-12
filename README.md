@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marcelo Feliciano. I've been a software engineer since 2020, and I'm always interested in new challenges and learning opportunities. Currently, I'm working as a Full Stack Engineer at @ SiplanControl.
+I'm Marcelo Feliciano. I've been a software engineer since 2020, and I'm always interested in new challenges and learning opportunities. Currently, I'm working as a Full Stack Engineer at @ CI&T.
 
 ## 🔨 Technologies
 
@@ -23,8 +23,7 @@ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 Cloud
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 
 Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)

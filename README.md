@@ -16,6 +16,36 @@ always looking to learn and contribute to projects.
 
 ---
 
+## 🚀 Featured Projects
+
+### 🚀 [Servlets - Full-Stack Java EE Application](https://github.com/m-feliciano/servlets)
+> Aplicação empresarial Java EE com arquitetura limpa e infraestrutura completa de segurança
+
+- **Tech Stack:** Java 17, Hibernate/JPA, PostgreSQL, JWT, EhCache, JSP/Servlets
+- **Arquitetura:** Clean Architecture com 4 camadas bem definidas (106 classes)
+- **Features Principais:**
+  - 🔐 Autenticação JWT com sistema de roles
+  - ⚡ Sistema de cache multi-usuário com EhCache
+  - 🛡️ Rate limiting com algoritmo Leaky Bucket
+  - 🕷️ Framework extensível de web scraping
+  - 🧪 Cobertura de testes abrangente (53 testes)
+  - 📊 Paginação eficiente para grandes volumes de dados
+
+- **Padrões de Design:** Implementa mais de 10 padrões incluindo Repository, Factory, Decorator, Strategy
+- **Segurança:** Filtros XSS, sanitização de entrada, isolamento de cache por token
+- **Performance:** Lazy loading estratégico, cache multi-nível, otimizações de consulta
+
+- **Impacto:** Aplicação pronta para produção demonstrando boas práticas de Java EE, arquitetura enterprise e segurança robusta
+
+**🎯 Destaques Técnicos:**
+- Arquitetura de 4 camadas (Presentation → Application → Domain → Infrastructure)
+- Sistema de autenticação completo com JWT e controle de acesso baseado em roles
+- Cache inteligente com isolamento por usuário usando EhCache
+- Framework próprio para web scraping extensível
+- Documentação técnica completa em inglês e português
+
+---
+
 ## 🚀 Tech Stack
 
 ### Languages

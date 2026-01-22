@@ -21,7 +21,7 @@ I favor simple, well-understood solutions that remain easy to operate and reason
 **Languages:** Java (primary), TypeScript / Node.js, SQL  
 **Frameworks:** Spring, NestJS  
 **Databases:** PostgreSQL, MongoDB  
-**Cloud & Infrastructure:** AWS (EC2, RDS, S3, SQS, SNS, ALB, Lambda), Docker, Git, Maven  
+**Cloud & Infrastructure:** AWS, Docker, Git, Maven  
 
 ---
 
@@ -31,24 +31,4 @@ I favor simple, well-understood solutions that remain easy to operate and reason
 - Proven technologies over novelty  
 - Measure before optimizing  
 - Production is the source of truth  
-- Systems are designed assuming failure  
-
----
-
-## Projects
-
-### SimulaCert — IT Certification Practice Platform
-
-Cloud-native platform for certification simulations, designed for reliability and low operational cost.
-
-- Stateless REST API built with Spring Boot  
-- PostgreSQL on private networking  
-- Dockerized deployment on EC2 with Nginx reverse proxy  
-- HTTPS via Let’s Encrypt; OAuth authentication for SPA clients  
-- Frontend hosted on S3 with CloudFront; backend exposed via public API  
-
----
-
-## Links
-
-- https://simulacert.com
+- Systems are designed assuming failure
